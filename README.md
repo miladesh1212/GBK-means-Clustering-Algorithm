@@ -12,4 +12,5 @@ Output = GBKmeans(X, Ncluster, PSOparams)
 In the our bargaining game based k-means clustering method, we are used a linear combination of the max and mean of inter cluster distances as a utility function for cenetr of clusters (players). Based on our best knowledge, in the different datasets with their embeded informations, different weight to each of the max and mean in the linear combination results to different accuracies. So, this matter may be addresseed by authers using to incorporate information theory based methods. 
 
 # Citation
+If you find this code useful please cite us in your work:
 
