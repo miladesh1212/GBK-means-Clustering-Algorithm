@@ -13,6 +13,7 @@ In the our bargaining game based k-means clustering method, we are used a linear
 
 # Citation
 If you find this code useful please cite us in your work:
+
 Mustafa Jahangoshai Rezaee, Milad Eshkevari, Morteza Saberi, Omar Hussain,
 GBK-means clustering algorithm: An improvement to the K-means algorithm based on the bargaining game,
 Knowledge-Based Systems,
